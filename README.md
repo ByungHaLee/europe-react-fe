@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## How was this created
+
+### `npx create-react-app europe-fe --template redux`
+
 ## Available Scripts
 
 In the project directory, you can run:
